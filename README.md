@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello!!  👋
+
+
+
+**Intro**
+
+Hi, I'm Fadlullah Durojaiye, I am currently in my last year/ last semester of college. I am in the computer systems technician-networking program, and i am also studying for the CCNA 200-301, AZ-104, and AZ-500. 
+
 
 <!--
 **Fadlullah-DT/Fadlullah-Dt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
